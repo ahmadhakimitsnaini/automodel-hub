@@ -28,7 +28,11 @@ const App = () => (
   // Menyediakan context React Query ke seluruh komponen anak (children)
   <QueryClientProvider client={queryClient}>
     
+<<<<<<< HEAD
+    {/* Menyediakan context global agar komponen UI Tooltip (info tambahan saat hover) dapat berfungsi */}
+=======
      {/* Menyediakan context global agar komponen UI Tooltip (info tambahan saat hover) dapat berfungsi */}
+>>>>>>> 1968b68657c51204947fd4de67a319b925ad4627
     <TooltipProvider>
       
       {/* ── Global UI Components ───────────────────────────────────────── */}
