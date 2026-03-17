@@ -248,7 +248,7 @@ Dataset CSV yang diupload harus memenuhi kriteria berikut:
 - [x] Auto Profiling (missing values, feature types)
 - [x] Background Training dengan Celery
 - [x] Model Leaderboard (Accuracy & F1-Score)
-- [ ] Deploy model sebagai REST API
+- [x] Deploy model sebagai REST API
 - [ ] Support dataset Excel (.xlsx)
 - [ ] Hyperparameter tuning dengan Optuna
 - [ ] Export laporan PDF
